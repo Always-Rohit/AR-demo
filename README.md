@@ -1,4 +1,4 @@
 # AR-demo
 This is my first Git Repository.
 <br>
-Author - Rohit Chaudhary
+Author - Rohit Chaudhary(IIMT COLLEGE)
